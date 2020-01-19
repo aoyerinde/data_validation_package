@@ -8,7 +8,7 @@ setup(
     author='Afiz Oyerinde',
     author_email='ayodejioyerinde93@gmail.com',
     # Needed to actually package something
-    packages=['Data_validation_v1'],
+    packages=['data_validation'],
     # Needed for dependencies
     install_requires=['numpy', 'pandas'],
     # *strongly* suggested for sharing
